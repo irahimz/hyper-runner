@@ -1,0 +1,40 @@
+# Blender MTL File: 'codes_console_PS5_001.blend'
+# Material Count: 3
+
+newmtl codes_console_PS5_001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\codes_console_PS5_001_normal.png
+map_Kd textures\\codes_console_PS5_001_diffuse.png
+map_Ns textures\\codes_console_PS5_001_roughness.png
+refl textures\\codes_console_PS5_001_metalic.png
+
+newmtl codes_console_PS5_001.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\codes_console_PS5_001_normal.png
+map_Kd textures\\codes_console_PS5_001_diffuse.png
+map_Ns textures\\codes_console_PS5_001_roughness.png
+refl textures\\codes_console_PS5_001_metalic.png
+
+newmtl codes_console_PS5_light_blue_001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.375170 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 5.000000
+Ni 1.450000
+d 1.000000
+illum 2
